@@ -1,0 +1,17 @@
+filename,file_path,sample_rate,duration_seconds,channels,file_size_mb,class,sample_id,task_id,duration_estimated
+bowel_movement_s01_t01.m4a,/Users/anthonyortiz/ResumeProj/BStressTranslator/dataset_raw/bowl_movement/bowel_movement_s01_t01.m4a,48000,36.88,1,0.3,bowl_movement,s01,t01,False
+bowel_movement_s02_t01.m4a,/Users/anthonyortiz/ResumeProj/BStressTranslator/dataset_raw/bowl_movement/bowel_movement_s02_t01.m4a,48000,47.04,1,0.39,bowl_movement,s02,t01,False
+bowel_movement_s03_t01.m4a,/Users/anthonyortiz/ResumeProj/BStressTranslator/dataset_raw/bowl_movement/bowel_movement_s03_t01.m4a,48000,48.4,1,0.4,bowl_movement,s03,t01,False
+bowel_movement_s04_t01.m4a,/Users/anthonyortiz/ResumeProj/BStressTranslator/dataset_raw/bowl_movement/bowel_movement_s04_t01.m4a,48000,24.6,1,0.2,bowl_movement,s04,t01,False
+hungry_s01_t01.m4a,/Users/anthonyortiz/ResumeProj/BStressTranslator/dataset_raw/hungry/hungry_s01_t01.m4a,48000,10.77,1,0.09,hungry,s01,t01,False
+hungry_s02_t01.m4a,/Users/anthonyortiz/ResumeProj/BStressTranslator/dataset_raw/hungry/hungry_s02_t01.m4a,48000,14.44,1,0.12,hungry,s02,t01,False
+hungry_s03_t01.m4a,/Users/anthonyortiz/ResumeProj/BStressTranslator/dataset_raw/hungry/hungry_s03_t01.m4a,48000,4.63,1,0.04,hungry,s03,t01,False
+hungry_s04_t01.m4a,/Users/anthonyortiz/ResumeProj/BStressTranslator/dataset_raw/hungry/hungry_s04_t01.m4a,48000,26.22,1,0.22,hungry,s04,t01,False
+hungry_s05_t01.m4a,/Users/anthonyortiz/ResumeProj/BStressTranslator/dataset_raw/hungry/hungry_s05_t01.m4a,48000,37.65,1,0.31,hungry,s05,t01,False
+hungry_s06_t01.m4a,/Users/anthonyortiz/ResumeProj/BStressTranslator/dataset_raw/hungry/hungry_s06_t01.m4a,48000,38.85,1,0.32,hungry,s06,t01,False
+hungry_s07_t01.m4a,/Users/anthonyortiz/ResumeProj/BStressTranslator/dataset_raw/hungry/hungry_s07_t01.m4a,48000,23.83,1,0.2,hungry,s07,t01,False
+tired_s01_t01.m4a,/Users/anthonyortiz/ResumeProj/BStressTranslator/dataset_raw/tired/tired_s01_t01.m4a,48000,33.04,1,0.27,tired,s01,t01,False
+tired_s02_t01.m4a,/Users/anthonyortiz/ResumeProj/BStressTranslator/dataset_raw/tired/tired_s02_t01.m4a,48000,28.78,1,0.24,tired,s02,t01,False
+tired_s03_t01.m4a,/Users/anthonyortiz/ResumeProj/BStressTranslator/dataset_raw/tired/tired_s03_t01.m4a,48000,55.06,1,0.45,tired,s03,t01,False
+tired_s04_t01.m4a,/Users/anthonyortiz/ResumeProj/BStressTranslator/dataset_raw/tired/tired_s04_t01.m4a,48000,33.38,1,0.27,tired,s04,t01,False
+tired_s05_t01.m4a,/Users/anthonyortiz/ResumeProj/BStressTranslator/dataset_raw/tired/tired_s05_t01.m4a,48000,12.56,1,0.11,tired,s05,t01,False
